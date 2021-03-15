@@ -13,7 +13,8 @@ window.onscroll = (e) => {
             i.style.transform = "translateY(-" + window.scrollY + "px)";
         }
     
-    }
+    }  
+    
     
 }
 
